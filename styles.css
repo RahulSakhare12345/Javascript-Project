@@ -1,0 +1,78 @@
+body{
+    background-color:skyblue;
+}
+.container{
+    width: 350px;
+    height: 500px;
+    background-color: white;
+    position: absolute;
+    top: 25%;
+    left: 36%;
+    margin: auto;
+    border-radius: 20px;
+    background-color: rgb(16, 238, 219);
+}
+h1{
+    position: absolute;
+    left: 37%;
+    top: 100px;
+ background-color: rgb(16, 238, 219);
+ border-radius: 10px;
+ padding: 20px;
+}
+.incontainer{
+    position: relative;
+    left: 78px;
+    padding: 0px 19px;
+    margin:auto;
+    font-size: 20px;
+    
+}
+P{
+    position: relative;
+   align-content: center;
+   padding:15px;
+   right: 40px;
+
+}
+button{
+    margin: 23px;
+    padding: 5px;
+    background-color: rgb(16, 238, 219)
+
+}
+input,select{
+    margin: auto;
+    padding: 5px;
+    position: relative;
+    right: 30px;
+    outline: none;
+    border: none;
+    border-bottom: 1px solid black;
+   font-size: 18px;
+    width: 180px;
+    background-color: rgb(16, 238, 219)
+}
+#tip{
+    position: absolute;
+    left: 183px;
+    top: 316px;
+    display: none;
+    font-family: 'Segoe UI', Tahoma, Geneva,
+     Verdana, 'Franklin Gothic Medium', 'Arial Narrow',
+      Arial, sans-serif;
+}
+
+
+#totalAmountHeading{
+    position: relative;
+     top: 23px;
+    
+
+}
+span{
+    position: relative;
+    right: 23px;
+    
+}
+
